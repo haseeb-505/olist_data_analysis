@@ -74,4 +74,4 @@ The dataset includes the following key tables:
 ## How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/haseeb-505/sql_projects/sql_projects/olist_data_analysis.git
+   git clone https://github.com/haseeb-505/olist_data_analysis.git
